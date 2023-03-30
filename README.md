@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iDarkGG (Harry)
-- 👀 I’m interested in Development of Dekstop Apps and Machine Learning
-- 🌱 I’m currently learning C# and TensorFlow Libraries
+- 👀 I’m interested in the Development of Dekstop Apps and Machine Learning
+- 🌱 I’m currently learning C# and TensorFlow.NET
 - 📫 You can reach me at harryriva14@gmail.com
 
 <!---
